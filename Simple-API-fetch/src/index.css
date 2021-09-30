@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: "Times new roman", cursive;
+  -webkit-font-smoothing: antialiased;
+  /* -moz-osx-font-smoothing: grayscale; */
+  margin: 0;
+  padding: 0;
+  /* background: linear-gradient(89deg, #136a8a 0%, #267871 100%); */
+  background: mistyrose;
+}
+
+h1 {
+  color: rgb(88, 96, 99);
+  /* text-shadow: 0.2; */
+}
+
+code {
+  font-family: "Baloo Bhai 2", cursive;
+}
